@@ -1,0 +1,23 @@
+.select2-selection__choice {
+    background-color: #7a8793 !important;
+}
+
+.img_detail_article {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.container_image_detail,img_thumbnail_container{
+    margin-top: 20px;
+}
+
+.img_thumbnail {
+    width: 100%;
+    object-fit: cover;
+}
+
+.alert-danger {
+    margin-top: 10px;
+    padding: 3px 5px;
+}

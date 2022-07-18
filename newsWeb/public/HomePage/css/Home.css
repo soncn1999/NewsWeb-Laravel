@@ -1,0 +1,9 @@
+.re_size_image {
+    height: 300px;
+    object-fit: cover;
+}
+
+.re_size_image-hotest {
+    height: 500px;
+    object-fit: cover;
+}
